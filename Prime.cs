@@ -1,7 +1,7 @@
 ﻿/***********************************************************************************************
  * Übungsnr:        06                                     
  * Programmname:    PrimeNumbers                                  
- * Autor:           Michael Bucek                                
+ * Autor:           karlof002                          
  * ------------------------------------------------ 
  * Kurzbeschreibung:      
  * Der Benutzer wird aufgefordert, eine Zahl einzugeben.
